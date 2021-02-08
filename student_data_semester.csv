@@ -1,0 +1,12 @@
+roll_no,enroll_no,fname,lname,subject,marks_scored,semester
+101,202101,Tony,Stark,Maths,97,1
+101,202101,Tony,Stark,Science,82,1
+101,202101,Tony,Stark,English,89,1
+101,202101,Tony,Stark,History,81,1
+101,202101,Tony,Stark,Economics,91,1
+101,202101,Tony,Stark,Maths,90,2
+101,202101,Tony,Stark,Science,85,2
+101,202101,Tony,Stark,English,91,2
+101,202101,Tony,Stark,History,95,2
+101,202101,Tony,Stark,Economics,88,2
+
